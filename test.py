@@ -1,1 +1,0 @@
-print('develop2 브랜치 푸쉬')
